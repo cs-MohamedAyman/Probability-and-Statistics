@@ -1,6 +1,8 @@
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/probability-statistics.jpg">
+
 # Probability-and-Statistics
 Probability and Statistics lectures for computer science students.
-
+ 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 ## Textbooks
